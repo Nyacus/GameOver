@@ -1,0 +1,5 @@
+{
+  "name": "Configurador de Despedidas",
+  "description": "Una aplicación web para configurar y calcular el presupuesto de un pack de despedida de soltero/a, permitiendo al usuario seleccionar diversas actividades y servicios para personalizar su experiencia.",
+  "requestFramePermissions": []
+}
